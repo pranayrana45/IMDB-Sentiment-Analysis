@@ -1,5 +1,5 @@
 # IMDB-Sentiment-Analysis
-A Deep Learning model over to classify whether the given review is positive or negative.
+A Deep Learning model to classify whether the given review is positive or negative.
 
 ## Sentiment Analysis
 I have trained a MLP model over keras IMDB dataset, for binary classification of reviews.<br/>
